@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/Calculator.png'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG2 from '../../assets/Tic-Tac-Toe.png'
+import IMG3 from '../../assets/SQL-Tableau-Visualization.png'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -18,16 +18,16 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "X",
-    github: "https://github.com",
-    demo: "https://dribble.com/Alien_pixels"
+    title: "Tic-Tac-Toe",
+    github: "https://github.com/AnukratiMehta/tic-tac-toe.git",
+    demo: "https://anukratimehta.github.io/tic-tac-toe/"
   },
   {
     id: 3,
     image: IMG3,
-    title: "X",
-    github: "https://github.com",
-    demo: "https://dribble.com/Alien_pixels"
+    title: "SQL Visualization",
+    github: "https://github.com/AnukratiMehta/Open-Defecation-Practices.git",
+    demo: "https://public.tableau.com/shared/GTCN83BH2?:display_count=n&:origin=viz_share_link"
   },
   {
     id: 4,
